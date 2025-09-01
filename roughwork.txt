@@ -1,0 +1,5 @@
+ADMIN_EMAIL = "admin@example.com"
+ADMIN_PASSWORD = "greatstack123"
+
+
+https://bookmylawyer.onrender.com/

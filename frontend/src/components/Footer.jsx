@@ -1,5 +1,6 @@
 import React from 'react'
 import { assets } from '../assets/assets'
+import { Link } from 'react-router-dom'
 
 const Footer = () => {
   return (
@@ -26,6 +27,7 @@ const Footer = () => {
           <ul className='flex flex-col gap-2 text-gray-600'>
             <li>+1-212-456-7890</li>
             <li>helloworld@gmail.com</li>
+            <li><Link to="https://bookmylawyeradmin.vercel.app/">Admin Page</Link></li>
           </ul>
         </div>
 
